@@ -5,4 +5,4 @@ Tableau is a software company that offers collaborative data visualization softw
 
 Link for visualization: https://public.tableau.com/app/profile/simone.farallo/viz/DataVisualizationforWorldHappinessReport/Storia1
 
-https://worldhappiness.report/: https://worldhappiness.report/
+The data were obtained: https://worldhappiness.report/
